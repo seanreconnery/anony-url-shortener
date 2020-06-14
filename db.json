@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id": 1000,
+        "url": "https://www.heycheckmeout.com/andhireme",
+        "short": "qi",
+        "comment": "portfolio"
+    },
+    "2": {
+        "id": 1001,
+        "url": "https://www.letshavealittle.fun/steg",
+        "short": "qj",
+        "comment": "steganarticle"
+    },
+    "3": {
+        "id": 1002,
+        "url": "https://www.google.com",
+        "short": "qk",
+        "comment": "search"
+    },
+    "4": {
+        "id": 1003,
+        "url": "https://www.lycos.com",
+        "short": "ql",
+        "comment": "is this even a search engine anymore?"
+    },
+    "5": {
+        "id": 1004,
+        "url": "https://afakeurl.com",
+        "short": "qm",
+        "comment": "a comment"
+    },
+    "6": {
+        "id": 1005,
+        "url": "http://www.testurl.com/test",
+        "short": "qn",
+        "comment": "test"
+    }
+}
